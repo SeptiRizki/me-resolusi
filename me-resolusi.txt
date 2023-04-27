@@ -3,3 +3,4 @@ Me Resolusi
 -Konsisten belajar JavaScript
 -Mengikuti program pertukaran mahasiswa
 -Mengerjakan skripsi
+-Daftar beasiswa
